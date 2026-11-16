@@ -1,6 +1,6 @@
 # Asistente legal RAG
 
-Responde preguntas sobre contratos de arrendamiento en PDF usando recuperación semántica (MMR, multi-query y búsqueda híbrida) con LangChain, Gemini, Chroma y una interfaz en Streamlit.
+Responde preguntas sobre contratos de alquiler en PDF usando recuperación semántica (MMR, multi-query y búsqueda híbrida) con LangChain, Gemini, Chroma y una interfaz en Streamlit.
 
 Los contratos de `contratos/` son documentos de ejemplo con datos ficticios.
 

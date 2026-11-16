@@ -65,7 +65,7 @@ with col2:
                         st.text(doc['contenido'])
 
 # Input del usuario
-if prompt := st.chat_input("Escribe tu consulta sobre contratos de arrendamiento..."):
+if prompt := st.chat_input("Escribí tu consulta sobre contratos de alquiler..."):
     # Añadir mensaje del usuario al historial
     st.session_state.messages.append({"role": "user", "content": prompt})
     
