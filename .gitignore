@@ -22,3 +22,6 @@ chroma_db/
 *.sqlite3
 users/
 data/
+
+# Instrucciones locales de Claude Code
+CLAUDE.md
